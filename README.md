@@ -1,2 +1,2 @@
-# Perpexa
-Perplexity clone
+# Your Project Name
+Perpexa
